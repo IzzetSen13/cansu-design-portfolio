@@ -7,7 +7,10 @@ import contact from "./scripts/contact.js";
 customNavigation();
 
 document.addEventListener("DOMContentLoaded", function () {
-  if (window.location.pathname.includes("index.html")) {
+  if (
+    window.location.pathname.includes("/") ||
+    window.location.pathname.includes("index.html")
+  ) {
     home();
   }
   if (window.location.pathname.includes("work.html")) {
