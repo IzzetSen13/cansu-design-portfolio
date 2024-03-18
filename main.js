@@ -7,22 +7,17 @@ import contact from "./scripts/contact.js";
 customNavigation();
 
 document.addEventListener("DOMContentLoaded", function () {
-  if (
-    window.location.pathname === "/" ||
-    window.location.pathname.includes("index.html")
-  ) {
+  const path = window.location.pathname;
+
+  if (path === "/" || path.includes("index.html")) {
     home();
-  }
-  if (window.location.pathname.includes("work.html")) {
+  } else if (path.includes("work.html")) {
     myWork();
-  }
-  if (window.location.pathname.includes("about.html")) {
+  } else if (path.includes("about.html")) {
     about();
-  }
-  if (window.location.pathname.includes("work-detail.htm")) {
+  } else if (path.includes("work-detail.htm")) {
     myWorkDetail();
-  }
-  if (window.location.pathname.includes("contact.html")) {
+  } else if (path.includes("contact.html")) {
     contact();
   }
 });
