@@ -8,7 +8,7 @@ customNavigation();
 
 document.addEventListener("DOMContentLoaded", function () {
   if (
-    window.location.pathname.includes("/") ||
+    window.location.pathname === "/" ||
     window.location.pathname.includes("index.html")
   ) {
     home();
