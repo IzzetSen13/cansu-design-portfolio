@@ -1,0 +1,208 @@
+[
+  {
+    "id": "1",
+    "coverImage": "../images/project1/image1.png",
+    "images": [
+      "../images/project1/image1.png",
+      "../images/project1/image2.png",
+      "../images/project1/image3.png"
+    ],
+    "videos": [],
+    "title": "Soulwax GIP",
+    "tag": "Photoshop - InDesign - Illustrator",
+    "type": "Graphic design",
+    "description": "This project integrates various elements for the DJ group Soulwax, including a poster, flyer, and tickets. The concept revolves around Soulwax performing a concert amidst the vibrant atmosphere of the Venice Carnival."
+  },
+  {
+    "id": "2",
+    "coverImage": "../images/project2/image1.png",
+    "images": ["../images/project2/image1.png"],
+    "videos": [],
+    "title": "Car illustration",
+    "tag": "Illustrator",
+    "type": "Graphic design",
+    "description": "I carefully crafted this car illustration using a range of advanced tools in Illustrator, including the mesh tool, gradient tool, pen tool, and more."
+  },
+  {
+    "id": "14",
+    "coverImage": "../images/project14/image1.jpg",
+    "images": [],
+    "videos": [
+      "https://www.youtube.com/embed/4aqcdtWkuu0?si=5-aMChZo7xD2HDV_",
+      "https://www.youtube.com/embed/UU0vo_buKI0?si=JVU8LXrhZNnoLv8V",
+      "https://www.youtube.com/embed/5rUSUyurYs0?si=k_uAxc6k4YjvQljE",
+      "https://www.youtube.com/embed/st38DnTJfvc?si=5S0ucrHjvVEvx5zs",
+      "https://www.youtube.com/embed/M-aXcj1i0TE?si=UltO-pxngsv7Tsp4",
+      "https://www.youtube.com/embed/CT3T4H1euRI?si=THaBuZWU2DWAQVr-",
+      "https://www.youtube.com/embed/UoUEh18XeX8?si=ibhnoIpxRmql7uah",
+      "https://www.youtube.com/embed/LZQse2Us7IQ?si=im6Msy7A07jxmkIZ",
+      "https://www.youtube.com/embed/q7_9dV4hMCs?si=Fc1xOa2RHTmhredJ"
+    ],
+    "title": "Century 21 - Playbook",
+    "tag": "After Effects",
+    "type": "Motion design",
+    "description": "During my internship at Century 21, I took on the responsibility of creating impactful videos to enrich their playbook. This involved brainstorming, scripting, filming, and editing videos that served as valuable resources for the company's internal training and knowledge-sharing initiatives."
+  },
+  {
+    "id": "4",
+    "coverImage": "../images/project4/image1.png",
+    "images": [
+      "../images/project4/image1.png",
+      "../images/project4/image2.png",
+      "../images/project4/image3.png",
+      "../images/project4/image4.png"
+    ],
+    "videos": [],
+    "title": "Billy's Butchery",
+    "tag": "InDesign - Illustrator",
+    "type": "Graphic design",
+    "description": "I created my own butcher shop named Billy's Butchery for school, crafting everything from the ground up. This included developing the logo, slogan, packaging paper, and business cards to represent the brand."
+  },
+  {
+    "id": "13",
+    "coverImage": "../images/project13/image5.jpg",
+    "images": [
+      "../images/project13/image1.jpg",
+      "../images/project13/image2.jpg",
+      "../images/project13/image3.jpg",
+      "../images/project13/image4.jpg",
+      "../images/project13/image5.jpg",
+      "../images/project13/image6.jpg"
+    ],
+    "videos": [],
+    "title": "Century 21 - 30 Year",
+    "tag": "Photoshop - Illustrator - InDesign",
+    "type": "Graphic design",
+    "description": "Throughout my internship at Century 21, I took on the responsibility of designing their 30th-anniversary logo. Additionally, I developed various assets to complement the logo, including balloon designs, window stickers, posters, posts, banners, and more."
+  },
+  {
+    "id": "6",
+    "coverImage": "../images/project6/image1.jpg",
+    "images": ["../images/project6/image1.jpg"],
+    "videos": [],
+    "title": "Cuisine Delicious",
+    "tag": "Illustrator - InDesign",
+    "type": "Graphic design",
+    "description": "My fiancé and I collaborated on a group project aimed at refining our skills. I took charge of designing the cooking book and the logo, while he dedicated his efforts to coding the website. <a target='_blank' href='https://agitated-colden-1728ea.netlify.app/index.html'>https://agitated-colden-1728ea.netlify.app/index.html</a>"
+  },
+  {
+    "id": "7",
+    "coverImage": "../images/project7/image1.png",
+    "images": [
+      "../images/project7/image1.png",
+      "../images/project7/image2.jpg"
+    ],
+    "videos": [],
+    "title": "V for Vendetta",
+    "tag": "Illustrator",
+    "type": "Graphic design",
+    "description": "This is my very first project where I tried out the mesh-tool. First, I made a realistic poster for 'V for Vendetta,' then I created a minimalistic one showing just the date, 5th of November, which is a key part of the movie's story."
+  },
+  {
+    "id": "9",
+    "coverImage": "../images/project9/image1.png",
+    "images": [],
+    "videos": ["https://www.youtube.com/embed/PoVNU3JARXY?si=-q5dCVM9dqOVdC7v"],
+    "title": "Adidas Animation",
+    "tag": "After Effects",
+    "type": "Motion design",
+    "description": "This project was created for my 'Motion Graphics' class, where the assignment was to produce a one-minute animation. Opting for a sporty theme, I decided to go with the iconic 'Adidas' logo, feeling confident about the creative possibilities it offered."
+  },
+  {
+    "id": "8",
+    "coverImage": "../images/project8/image1.png",
+    "images": ["../images/project8/image1.png"],
+    "videos": [],
+    "title": "Shopping Jette",
+    "tag": "InDesign",
+    "type": "Graphic design",
+    "description": "During my internship at Maxiprint, I designed a poster intended for all the stores in Jette. The purpose was for each store to fill in their vacation dates, which is why I included a white rectangle in the center of the poster for this specific purpose."
+  },
+  {
+    "id": "10",
+    "coverImage": "../images/project10/image1.jpg",
+    "images": [],
+    "videos": ["https://www.youtube.com/embed/zJKmTrPEOBU?si=vUeZ17qPdgciBQls"],
+    "title": "Showreel",
+    "tag": "After Effects",
+    "type": "Motion design",
+    "description": "I curated a showreel featuring the projects I take pride in, showcasing my best work. Additionally, I included two digital drawings that I created to further highlight my artistic abilities."
+  },
+  {
+    "id": "11",
+    "coverImage": "../images/project11/image1.jpg",
+    "images": [],
+    "videos": ["https://www.youtube.com/embed/n_raasE84Bg?si=3TsrUM2e0uJln5Mr"],
+    "title": "Touchdesigner Projects",
+    "tag": "Touchdesigner",
+    "type": "Motion design",
+    "description": "This school project was made by following tutorials on YouTube. They were only made for learning purposes, allowing me to explore and understand the capabilities of the software."
+  },
+  {
+    "id": "12",
+    "coverImage": "../images/project12/image1.jpg",
+    "images": [],
+    "videos": ["https://www.youtube.com/embed/-6RsL5EF17k?si=pQ0qRYiRFtEbYjHS"],
+    "title": "Tokyo Night",
+    "tag": "After Effects",
+    "type": "Motion design",
+    "description": "For my assignment, I was tasked with developing several HUD overlays and integrating them into a video through motion tracking. While I created some of the HUD overlays myself, I also incorporated additional ones sourced from the internet to enrich the project."
+  },
+  {
+    "id": "5",
+    "coverImage": "../images/project5/image1.jpg",
+    "images": ["../images/project5/image1.jpg"],
+    "videos": [],
+    "title": "Bot Gallery",
+    "tag": "Illustrator",
+    "type": "Graphic design",
+    "description": "I crafted this logo for a fascinating project involving the creation of a website. On this platform, an AI persona inspired by a famous painting interacts with users, answering their questions and engaging in conversation."
+  },
+  {
+    "id": "3",
+    "coverImage": "../images/project3/image1.jpg",
+    "images": ["../images/project3/image1.jpg"],
+    "videos": [],
+    "title": "Final Show",
+    "tag": "Illustrator",
+    "type": "Graphic design",
+    "description": "I designed this logo for our school event, which serves as a platform for showcasing participants' final projects. The theme was a blend of modernity and dreaminess."
+  },
+  {
+    "id": "15",
+    "coverImage": "../images/project15/image1.jpg",
+    "images": [],
+    "videos": [
+      "https://www.youtube.com/embed/2LYR36v-U4U?si=bBWiSTbn-zWRS_Xm",
+      "https://www.youtube.com/embed/hWt2HDyXZdg?si=s0r5EOBpUNF_Di1v",
+      "https://www.youtube.com/embed/kNTbrf5JKfE?si=W-tktkNrbvcJpZiV"
+    ],
+    "title": "Century 21 - Broker Meeting",
+    "tag": "Photoshop - After Effects",
+    "type": "Motion design",
+    "description": "Throughout my internship at Century 21, I had the opportunity to produce videos for their broker meetings, and among them, I have a few favorites. These selected videos effectively highlight Century 21's brand and products, contributing positively to their marketing efforts."
+  },
+  {
+    "id": "16",
+    "coverImage": "../images/project16/image2.jpg",
+    "images": [
+      "../images/project16/image1.jpg",
+      "../images/project16/image2.jpg"
+    ],
+    "videos": [],
+    "title": "Century 21 - Window Stickers",
+    "tag": "InDesign",
+    "type": "Graphic design",
+    "description": "I've designed window stickers for another Century 21 bureau. These stickers serve as notifications to inform people in the neighborhood about the upcoming opening of a new branch, ensuring they are aware of the services soon to be available in their area."
+  },
+  {
+    "id": "17",
+    "coverImage": "../images/project17/image1.jpg",
+    "images": ["../images/project17/image1.jpg"],
+    "videos": [],
+    "title": "Century 21 - Banner Website",
+    "tag": "InDesign - Photoshop - Illustrator",
+    "type": "Graphic design",
+    "description": "I designed a banner for Century 21's website, aiming to attract potential recruits by highlighting their job opportunities and vacancies. This banner serves as a clear invitation for individuals seeking employment to explore the career opportunities available within the company."
+  }
+]

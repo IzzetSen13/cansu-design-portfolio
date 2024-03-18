@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,500,1,0"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../style/style.css" />
+    <script src="../scripts/anime.min.js"></script>
+    <script type="module" src="../main.js" defer></script>
+    <title>Cansu | About</title>
+  </head>
+  <body id="work-body">
+    <div id="mobileNavigationModal">
+      <div class="mobileNavigationModalUpperContainer">
+        <p data-direction="index" class="nav-item logo">Cansu</p>
+        <span id="mobileNavigationCloseBtn" class="material-symbols-outlined">
+          close
+        </span>
+      </div>
+      <div id="mobileNavigationItemsContainer">
+        <p data-direction="about" class="nav-item">About me</p>
+        <p data-direction="work" class="nav-item active-mobile">My work</p>
+        <p data-direction="contact" class="nav-item">Contact</p>
+      </div>
+    </div>
+    <nav>
+      <p data-direction="index" class="nav-item logo">Cansu</p>
+      <div id="nav-items-container">
+        <div data-direction="about" class="nav-item">
+          <p>About me</p>
+        </div>
+        <div data-direction="work" class="nav-item active">
+          <p>My work</p>
+        </div>
+        <div data-direction="contact" class="nav-item">
+          <p>Contact</p>
+        </div>
+      </div>
+      <div id="hamburgerNavigation">
+        <span class="material-symbols-outlined"> menu </span>
+      </div>
+    </nav>
+    <main>
+      <div>
+        <form id="filter-work-form">
+          <div>
+            <input
+              type="radio"
+              name="filterWork"
+              value="all"
+              id="filterAll"
+              checked
+            />
+            <label for="filterAll">All</label>
+          </div>
+          <div>
+            <input
+              type="radio"
+              name="filterWork"
+              value="Graphic design"
+              id="filterGraphic"
+            />
+            <label for="filterGraphic">Graphic Design</label>
+          </div>
+          <div>
+            <input
+              type="radio"
+              name="filterWork"
+              value="Motion design"
+              id="filterMotion"
+            />
+            <label for="filterMotion">Motion Design</label>
+          </div>
+        </form>
+      </div>
+      <figure id="project-container"></figure>
+    </main>
+  </body>
+</html>
